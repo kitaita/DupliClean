@@ -1,0 +1,13 @@
+{
+    "editor.defaultFormatter": "ms-dotnettools.csdevkit",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "dotnet.server.useOmnisharp": true
+}
